@@ -3,7 +3,8 @@
 - https://docs.chaicode.com/youtube/chai-aur-git/welcome/
 
 ## How to take access of a repo with the help of classic github token?
-git clone https://ghp_SWK4EKA8T1PIjhfghfghhgfhfghGWf@github.com/premvishwakarma95/active-aurora-admin-main.git
+- Run this below command in git bash so it will not only give the code it will give access of that branch and account so you can run commands like push, pull, commit etc.
+- git clone https://ghp_SWK4EKA8T1PIjhfghfghhgfhfghGWf@github.com/premvishwakarma95/active-aurora-admin-main.git
 
 ---
 
