@@ -45,6 +45,8 @@
 
 ## Common commands
 ```bash
+git --version
+git status // this tell us, Is there anything changed in our current repo and .git file should present only then this command work
 git clone https://github.com/username/repo-name.git
 git clone https://ghp_SWK4EKA8T1PIjhfghfghhgfhfghGWf@github.com/premvishwakarma95/active-aurora-admin-main.git
 git status
