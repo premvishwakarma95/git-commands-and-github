@@ -14,6 +14,20 @@
 - Merge code from multiple developers without conflicts (or handle them properly)
 - 👉 Git works locally on your computer.
 
+---
+
+## What is github?
+- GitHub is a cloud-based platform that hosts Git repositories.
+- Think of GitHub as Google Drive for Git projects ☁️
+- With GitHub, you can:
+- Store your Git repositories online
+- Share code with others
+- Collaborate with teams
+- Review code using Pull Requests
+- Track issues and bugs
+- Deploy projects
+- 👉 GitHub is remote, Git is local.
+
 ## How to take access of a repo with the help of classic github token?
 - Run this below command in git bash so it will not only give the code it will give access of that branch and account so you can run commands like push, pull, commit etc.
 - git clone https://ghp_SWK4EKA8T1PIjhfghfghhgfhfghGWf@github.com/premvishwakarma95/active-aurora-admin-main.git
