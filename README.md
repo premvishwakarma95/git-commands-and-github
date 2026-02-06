@@ -28,6 +28,15 @@
 - Deploy projects
 - 👉 GitHub is remote, Git is local.
 
+| Feature       | Git             | GitHub                       |
+| ------------- | --------------- | ---------------------------- |
+| Type          | Tool            | Platform                     |
+| Works Offline | ✅ Yes           | ❌ No                         |
+| Purpose       | Version control | Code hosting & collaboration |
+| Owned by      | Open-source     | Microsoft                    |
+
+---
+
 ## How to take access of a repo with the help of classic github token?
 - Run this below command in git bash so it will not only give the code it will give access of that branch and account so you can run commands like push, pull, commit etc.
 - git clone https://ghp_SWK4EKA8T1PIjhfghfghhgfhfghGWf@github.com/premvishwakarma95/active-aurora-admin-main.git
