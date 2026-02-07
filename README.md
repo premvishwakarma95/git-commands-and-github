@@ -123,9 +123,31 @@ git checkout -b ligth-mode     // this will create new branch and make current b
 
 ---
 
+## Delete a branch
+You can delete a branch using the following command:
+```bash
+git branch -d <branch-name>
+```
+
+---
+
+## Rename a branch
+You can rename a branch using the following command:
+```bash
+git branch -m <old-branch-name> <new-branch-name>
+```
+
 ## Merging branches
 - Merging is about bringing changes from one branch to another.
 - In Git we have two types of merges :
 - - Fast-Forward Merges (If branches have not diverged)
 - - 3-Way Merges (if branches have diverged)
-- - Fast-forward merge
+
+### Fast forware merge
+- First go to in that branch in which you want to take changes from another branch using this "git checkout main" command.
+- Now run this second command "git merge bug-fix" this will take code from bug-fix to main branch
+- this is called fast forward merge.
+```bash
+git checkout main
+git merge bug-fix
+```
