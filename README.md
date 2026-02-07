@@ -107,7 +107,7 @@ node_modules
 ---
 
 ## Creating a new branch
-- IF you have initialized git and now want to create branch then you won't be able to create branch because first atleast we need to do one commit to master or main branch only then we can create new branch.
+- IF you have initialized git and now want to create branch then you won't be able to create branch because first atleast we need to do one commit to master or main branch only then we can create new branch and only then you can run git branch..
 - To create a new branch, you can use the following command:
 ```bash
 git branch                     // this command will tell all the branches that are present in the repository.
