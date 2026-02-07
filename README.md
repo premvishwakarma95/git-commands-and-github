@@ -107,9 +107,11 @@ node_modules
 ---
 
 ## Creating a new branch
-To create a new branch, you can use the following command:
+- IF you have initialized git and now want to create branch then you won't be able to create branch because first atleast we need to do one commit to master or main branch only then we can create new branch.
+- To create a new branch, you can use the following command:
 ```bash
 git branch                     // this command will tell all the branches that are present in the repository.
+git branch --show-current      // this will tell the current branch that you are in.
 git branch bug-fix             // this command will create bug-fix branch but your current branch will still be master i mean you would be still in current branch where you were.
 git switch bug-fix             // this command will switch from one branch to another i mean if we are in "master" branch right now and want to go in bug-fix branch then we use this command.
 git log                        // this will give all the logs of git activity.
