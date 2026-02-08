@@ -208,10 +208,14 @@ You can view the list of stashes by using the following command:
 git stash list
 ```
 
+---
+
 ### how to add remote means hoisting code server, where to add code with this command we can set?
 ```bash
 git remote add origin https://github.com/USERNAME/REPOSITORY_NAME.git
 ```
+
+---
 
 ### command to set ogirin branch.
 Now whenever we will run this `git push` command the automatically push in set command like prem_dev no need to specify branch name.
