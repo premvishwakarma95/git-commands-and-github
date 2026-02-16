@@ -233,3 +233,5 @@ git remote -v
 ---
 
 ### Learn about `git rebake`.
+- From chatgpt
+- From document by youtuber
