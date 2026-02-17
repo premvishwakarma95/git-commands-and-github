@@ -2,6 +2,14 @@
 - Learn all about git docs from below link by hitesh
 - https://docs.chaicode.com/youtube/chai-aur-git/welcome/
 
+---
+
+## IF vim editor open then how to handle it.
+- First click escap button (esc)
+- then enter :wq
+
+---
+
 ## What is Git?
 - Git is software.
 - Git is a version control system.
