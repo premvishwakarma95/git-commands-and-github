@@ -4,7 +4,7 @@
 
 ---
 
-## IF vim editor open then how to handle it.
+## If vim editor open then how to handle it.
 - First click escap button (esc)
 - then enter :wq
 
