@@ -51,6 +51,21 @@
 
 ---
 
+## Commands before you commit.
+```bash
+# Your identity — shows up on every commit you make
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+# Set VS Code as your default editor (optional but saves pain)
+git config --global core.editor "code --wait"
+
+# Set default branch name to 'main' for new repos
+git config --global init.defaultBranch main
+```
+
+---
+
 ## Common commands
 ```bash
 git --version
