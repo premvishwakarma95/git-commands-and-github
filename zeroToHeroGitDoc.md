@@ -1,5 +1,7 @@
 # Git Commands for Freshers — The Complete Cheatsheet
 
+https://github.com/vijaygupta18/TechVijayForYou/blob/main/git-commands-for-freshers.md?fbclid=PAT01DUARGG39leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaee4VPfsgrATuYVOjfnFiTMAj4vcifyuMWJ-cyCjrpp9q9vKMrt1bWQrmf3lg_aem_HoHdUMiM5Qx6PhSvxieO3Q
+
 **The 20 commands that do 95% of the work. Learn these, and you'll survive any team.**
 
 If you're a fresher joining your first dev team, nobody will sit with you and explain git. They'll assume you know it. And then, on day two, your tech lead will say something like:
