@@ -255,6 +255,33 @@ git remote -v
 
 ---
 
+## Quick Reference — The Cheatsheet
+
+| Command | What It Does |
+|---|---|
+| `git clone <url>` | Copy a repo to your machine |
+| `git status` | What's changed? |
+| `git add <file>` | Stage a file for commit |
+| `git commit -m "msg"` | Save a snapshot |
+| `git push` | Upload commits to remote |
+| `git pull` | Download + merge from remote |
+| `git branch` | List branches |
+| `git checkout -b <name>` | Create + switch to new branch |
+| `git merge <branch>` | Combine a branch into current |
+| `git log --oneline --graph` | See commit history |
+| `git diff` | See unstaged changes |
+| `git stash` | Save work temporarily |
+| `git reset --soft HEAD~1` | Undo last commit, keep changes |
+| `git revert <sha>` | Safely undo a pushed commit |
+| `git restore <file>` | Discard local changes |
+| `git rebase main` | Replay commits on top of main |
+| `git fetch` | Download without merging |
+| `git cherry-pick <sha>` | Copy one commit to current branch |
+| `git tag v1.0.0` | Mark a release |
+| `git reflog` | Recover lost commits |
+
+---
+
 ### Learn about `git rebake`.
 - From chatgpt
 - From document by youtuber
